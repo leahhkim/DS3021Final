@@ -1,4 +1,5 @@
 # Predicting Happiness Scores: Analyzing Social and Economic Factors
+Answering a data driven question by deploying the data science lifecycle
 
 **Contributors**: Emujin Batzorig, Anna Yao, Leah Kim  
 **Course**: DS 3021 – Machine Learning Fundamentals  
