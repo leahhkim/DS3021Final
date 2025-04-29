@@ -41,7 +41,7 @@ We applied the data science lifecycle:
    - Built a **Linear Regression** model to predict the happiness score.
    - Evaluated performance using **R²** and **Root Mean Squared Error (RMSE)**.
    - Compared feature subsets: Economic-only vs Social-only.
-   - Investigated variable importance and ran a feature ablation test (dropping the most important feature).
+   - Investigated variable importance and tested the model performance without the high importance variable. (dropping the most important feature).
 
 4. **Evaluation**  
    - Social features: **R² = 0.95**, Economic features: **R² = 0.74**
