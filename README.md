@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Project Motivation
+## Project Motivation
 
 In this project, we aim to answer:
 
@@ -17,7 +17,7 @@ By exploring these questions, we hope to highlight which aspects contribute most
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 We used the **2019 World Happiness Report**, which contains happiness scores for 155 countries along with:
 - **Economic metrics** (e.g., GDP per capita)
